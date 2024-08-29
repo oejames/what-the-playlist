@@ -35,6 +35,5 @@ Locally preview production build:
 ```bash
 yarn preview
 ```
-##
-Acknowledgments
+## Acknowledgments
 This is a fork of the original What The Playlist by @haykkh. Many thanks to the original author for the inspiration and groundwork laid out in Issue #54.
