@@ -1,3 +1,5 @@
+## Purpose of This Fork
+The original site does not use an internal database - this fork modifies the backend by loading a database for each user once at the beginning of a session and then pulling from that database for later data retrieval. This is designed to replace the current live search functionality, which can be slow/resource-intensive.
 # what the playlist
 
 Ever hear a song for the first time in years and remember that one playlist you made 4 years ago but think to yourself _what the #$!% was the name of that playlist?_.
